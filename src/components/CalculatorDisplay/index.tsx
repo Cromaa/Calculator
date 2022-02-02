@@ -27,7 +27,7 @@ export function CalculatorDisplay({value, result} : Props){
             </Text>
             <Text
                 style = {styles.displayText}
-                numberOfLines={1}
+                numberOfLines={2}
             >
                 {value}
             </Text> 

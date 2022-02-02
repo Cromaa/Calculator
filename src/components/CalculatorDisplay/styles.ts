@@ -9,7 +9,7 @@ export const styles = StyleSheet.create({
         alignItems: 'flex-end',
     },
     displayText: {
-        fontSize: 100,
+        fontSize: 80,
         color: theme.colors.white,
     },
     result: {
