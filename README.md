@@ -7,7 +7,7 @@
 </p>
 
 ### ◽ Projeto 💻
-	Uma calculadora de operações básicas.
+Uma calculadora de operações básicas.
 ###   ◽ Tecnologias ✨
 -   [ ] React Native
 -   [ ] Typescript
@@ -15,7 +15,7 @@
 -   [ ] Gradient colors
 -   [ ] Expo Google Fonts
 
-### Executando o projeto
+### ◽ Executando o projeto
 
  1. Ultlize o **npm install** ou o **yarn** para instalar as dependências necessárias, com isso inicialize o projeto:
 	 ```cl
